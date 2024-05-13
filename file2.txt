@@ -1,4 +1,4 @@
 ffg
 Line from user2
-line2 from user1
+line 2 from user 2
 Line from user1
